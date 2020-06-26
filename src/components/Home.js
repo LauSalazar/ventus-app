@@ -15,7 +15,7 @@ const Home = () => {
                 de eventos con estándares de calidad y buena gestión..
               </h3>
               <a
-                href={'/reserva'}
+                href={'/ventus-app/reserva'}
                 className="section-btn btn btn-default smoothScroll"
               >
                 Programa tu reserva
