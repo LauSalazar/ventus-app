@@ -9,11 +9,8 @@ const Menu = () => {
 
                     <div className="navbar-header">
                         <button className="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span className="icon icon-bar"></span>
-                            <span className="icon icon-bar"></span>
-                            <span className="icon icon-bar"></span>
+                            <span className="fa fa-bars"></span>
                         </button>
-
                         
                         <a href={'/'} className="navbar-brand"><img src={process.env.PUBLIC_URL + '/images/ventus-logo-brand.png'} alt="Logo Ventus"></img></a>
                     </div>

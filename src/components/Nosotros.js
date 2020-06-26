@@ -17,7 +17,7 @@ const Nosotros = () => {
                         <div className="col-md-4 col-sm-6">
                             <div className="team-thumb">
                                 <div className="team-image">
-                                    <img src={process.env.PUBLIC_URL +'/images/karen.jpg'} className="img-responsive" alt=""></img>
+                                    <img src={process.env.PUBLIC_URL +'/images/karen.jpg'} alt=""></img>
                                 </div>
                                 <div className="team-info">
                                     <h3>Karen</h3>

@@ -14,7 +14,7 @@ const Servicios = () => {
                             <div className="section-title">
                                 <h2>Nuestros servicios<small>Mejora, aprende y diviertete</small></h2>
                             </div>
-                                <div className="col-md-4 col-sm-4 courses-item">
+                                <div className="col-md-12 col-sm-12 courses-item">
                                     <div className="item">
                                         <div className="courses-thumb">
                                         <div className="courses-detail">
@@ -23,7 +23,7 @@ const Servicios = () => {
                                             </div>
                                             <div className="courses-top">
                                                 <div className="courses-image">
-                                                    <img src={process.env.PUBLIC_URL +'/images/ventus4.jpg'} className="img-responsive" alt=""></img>
+                                                    <img src={process.env.PUBLIC_URL +'/images/ventus4.jpg'} className="img-responsive-override" alt=""></img>
                                                 </div>
                                                 <div className="courses-date">
                                                     <span><i className="fa fa-calendar"></i> Todos los dias</span>
@@ -34,7 +34,7 @@ const Servicios = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-md-4 col-sm-4 courses-item">
+                                <div className="col-md-12 col-sm-12 courses-item">
                                     <div className="item">
                                         <div className="courses-thumb">
                                             <div className="courses-detail">
@@ -43,7 +43,7 @@ const Servicios = () => {
                                             </div>
                                             <div className="courses-top">
                                                 <div className="courses-image">
-                                                    <img src={process.env.PUBLIC_URL +'/images/kids.jpg'} className="img-responsive" alt=""></img>
+                                                    <img src={process.env.PUBLIC_URL +'/images/kids.jpg'} className="img-responsive-override" alt=""></img>
                                                 </div>
                                                 <div className="courses-date">
                                                     <span><i className="fa fa-calendar"></i>Por definir</span>
@@ -54,7 +54,7 @@ const Servicios = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-md-4 col-sm-4">
+                                <div className="col-md-12 col-sm-12 courses-item">
                                     <div className="item">
                                         <div className="courses-thumb">
                                         <div className="courses-detail">
@@ -63,7 +63,7 @@ const Servicios = () => {
                                             </div>
                                             <div className="courses-top">
                                                 <div className="courses-image">
-                                                    <img src={process.env.PUBLIC_URL +'/images/ventus7.jpg'} className="img-responsive" alt=""></img>
+                                                    <img src={process.env.PUBLIC_URL +'/images/ventus7.jpg'} className="img-responsive-override" alt=""></img>
                                                 </div>
                                                 <div className="courses-date">
                                                     <span><i className="fa fa-calendar"></i> Por definir</span>
@@ -74,7 +74,7 @@ const Servicios = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-md-4 col-sm-4">
+                                <div className="col-md-12 col-sm-12 courses-item">
                                     <div className="item">
                                         <div className="courses-thumb">
                                         <div className="courses-detail">
@@ -83,7 +83,7 @@ const Servicios = () => {
                                             </div>
                                             <div className="courses-top">
                                                 <div className="courses-image">
-                                                    <img src={process.env.PUBLIC_URL +'/images/ventus2.jpg'} className="img-responsive" alt=""></img>
+                                                    <img src={process.env.PUBLIC_URL +'/images/ventus2.jpg'} className="img-responsive-override" alt=""></img>
                                                 </div>
                                                 <div className="courses-date">
                                                     <span><i className="fa fa-calendar"></i> Periodicamente</span>
