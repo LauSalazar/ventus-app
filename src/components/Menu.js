@@ -11,16 +11,16 @@ const Menu = () => {
                             <span className="fa fa-bars"></span>
                         </button>
                         
-                        <a href={'/'} className="navbar-brand"><img src={process.env.PUBLIC_URL + '/images/ventus-logo-brand.png'} alt="Logo Ventus"></img></a>
+                        <a href={'/ventus-app'} className="navbar-brand"><img src={process.env.PUBLIC_URL + '/images/ventus-logo-brand.png'} alt="Logo Ventus"></img></a>
                     </div>
 
                 
                     <div className="collapse navbar-collapse">
                         <ul className="nav navbar-nav navbar-nav-first">
-                            <li><a href={'/'} className="smoothScroll">Inicio</a></li>
-                            <li><a href={'/nosotros'} className="smoothScroll">Nosotros</a></li>
-                            <li><a href={'/reserva'} className="smoothScroll">Reserva</a></li>
-                            <li><a href={'/servicios'} className="smoothScroll">Servicios</a></li>
+                            <li><a href={'/ventus-app'} className="smoothScroll">Inicio</a></li>
+                            <li><a href={'/ventus-app/nosotros'} className="smoothScroll">Nosotros</a></li>
+                            <li><a href={'/ventus-app/reserva'} className="smoothScroll">Reserva</a></li>
+                            <li><a href={'/ventus-app/servicios'} className="smoothScroll">Servicios</a></li>
                             
                         </ul>
 
