@@ -1,7 +1,6 @@
 import React, {Fragment} from 'react';
 
 const Menu = () => {
-    console.log(process.env.PUBLIC_URL);
     return (  
         <Fragment>
             <section className="navbar custom-navbar navbar-expand-lg fixed-top" role="navigation">

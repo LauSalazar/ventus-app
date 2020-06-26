@@ -34,9 +34,9 @@ const Footer = () => {
                                 <p><a href="mailto:ventusvoleyplaya@gmail.com">ventusvoleyplaya@gmail.com</a></p>
                             </address>
                             <ul className="social-icon">
-                                <li><a href={'https://www.facebook.com/ventusvoleyplayaclub/'} target="_blank" rel="noopener noreferrer" attr="facebook icon"><i class="fa fa-facebook-square" ></i> </a></li>
-                                <li><a href={'https://www.instagram.com/ventusvoleyplaya/'} target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram" ></i> </a></li>
-                                <li><a href={'https://twitter.com/ventusvoley?lang=es'} target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter" ></i> </a></li>
+                                <li><a href={'https://www.facebook.com/ventusvoleyplayaclub/'} target="_blank" rel="noopener noreferrer" attr="facebook icon"><i className="fa fa-facebook-square" ></i> </a></li>
+                                <li><a href={'https://www.instagram.com/ventusvoleyplaya/'} target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram" ></i> </a></li>
+                                <li><a href={'https://twitter.com/ventusvoley?lang=es'} target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" ></i> </a></li>
                             </ul>
                             <div className="copyright-text"> 
                                 <p>Copyright &copy; 2020 Ventus Voley Playa</p>
