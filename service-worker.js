@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ventus-app/precache-manifest.7730eeb1aae0f83ddea1634cddbc4a98.js"
+  "/ventus-app/precache-manifest.68347cc89d2834cc8fdfde7e0c5fdcdb.js"
 );
 
 self.addEventListener('message', (event) => {

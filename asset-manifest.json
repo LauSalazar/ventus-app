@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ventus-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ventus-app/static/js/main.b830eb0e.chunk.js",
-    "main.js.map": "/ventus-app/static/js/main.b830eb0e.chunk.js.map",
+    "main.js": "/ventus-app/static/js/main.1b004d95.chunk.js",
+    "main.js.map": "/ventus-app/static/js/main.1b004d95.chunk.js.map",
     "runtime-main.js": "/ventus-app/static/js/runtime-main.0c94282f.js",
     "runtime-main.js.map": "/ventus-app/static/js/runtime-main.0c94282f.js.map",
     "static/js/2.1e127916.chunk.js": "/ventus-app/static/js/2.1e127916.chunk.js",
     "static/js/2.1e127916.chunk.js.map": "/ventus-app/static/js/2.1e127916.chunk.js.map",
     "index.html": "/ventus-app/index.html",
-    "precache-manifest.7730eeb1aae0f83ddea1634cddbc4a98.js": "/ventus-app/precache-manifest.7730eeb1aae0f83ddea1634cddbc4a98.js",
+    "precache-manifest.68347cc89d2834cc8fdfde7e0c5fdcdb.js": "/ventus-app/precache-manifest.68347cc89d2834cc8fdfde7e0c5fdcdb.js",
     "service-worker.js": "/ventus-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ventus-app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.1e127916.chunk.js.LICENSE.txt": "/ventus-app/static/js/2.1e127916.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0c94282f.js",
     "static/js/2.1e127916.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b830eb0e.chunk.js"
+    "static/js/main.1b004d95.chunk.js"
   ]
 }
