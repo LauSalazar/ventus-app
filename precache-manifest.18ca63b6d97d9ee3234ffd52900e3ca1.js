@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4fcba92333ad2efbdf330d8132b4168",
+    "revision": "bc227d98839f0021885770c0fd4f2560",
     "url": "/ventus-app/index.html"
   },
   {
-    "revision": "fbfc292472baadee41e8",
+    "revision": "2701c44b7690b7b9ee59",
     "url": "/ventus-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "165d770ea3b77fb80c37",
-    "url": "/ventus-app/static/js/2.8b82f143.chunk.js"
+    "revision": "67daf33a728be2174de5",
+    "url": "/ventus-app/static/js/2.51778bce.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ventus-app/static/js/2.8b82f143.chunk.js.LICENSE.txt"
+    "url": "/ventus-app/static/js/2.51778bce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbfc292472baadee41e8",
-    "url": "/ventus-app/static/js/main.a30f6b9c.chunk.js"
+    "revision": "2701c44b7690b7b9ee59",
+    "url": "/ventus-app/static/js/main.b8d910a6.chunk.js"
   },
   {
     "revision": "237b090d80cdb9d363c3",
