@@ -14,12 +14,9 @@ const Home = () => {
                 de entrenamiento, espacios para la práctica libre y organización
                 de eventos con estándares de calidad y buena gestión..
               </h3>
-              <a
-                href={'/ventus-app/reserva'}
-                className="section-btn btn btn-default smoothScroll"
-              >
-                Programa tu reserva
-              </a>
+              <Link to={'/ventus-app/reserva'} className="section-btn btn btn-default">
+                  Programa tu reserva
+                </Link>
             </div>
           </div>
         </div>
